@@ -1,0 +1,325 @@
+.icon-null
+{
+    width: 0px;
+}
+.icon-house
+{
+    background: url('icons/house.png') no-repeat center center;
+}
+.icon-blank
+{
+    background: url('icons/blank.gif') no-repeat center center;
+}
+.icon-down
+{
+    background: url('icons/arrow_down.png') no-repeat center center;
+}
+.icon-up
+{
+    background: url('icons/arrow_up.png') no-repeat center center;
+}
+.icon-add
+{
+    background: url('icons/edit_add.png') no-repeat center center;
+}
+.icon-edit
+{
+    background: url('icons/pencil.png') no-repeat center center;
+}
+.icon-remove
+{
+    background: url('icons/edit_remove.png') no-repeat center center;
+}
+.icon-save
+{
+    background: url('icons/filesave.png') no-repeat center center;
+}
+.icon-selectAll
+{
+    background: url('icons/selectAll.png') no-repeat center center;
+}
+.icon-uncheckAll
+{
+    background: url('icons/uncheckAll.png') no-repeat center center;
+}
+.icon-cut
+{
+    background: url('icons/cut.png') no-repeat center center;
+}
+.icon-ok
+{
+    background: url('icons/ok.png') no-repeat center center;
+}
+.icon-expandAll
+{
+    background: url('icons/expandAll.png') no-repeat center center;
+}
+.icon-collapseAll
+{
+    background: url('icons/collapseAll.png') no-repeat center center;
+}
+.icon-no
+{
+    background: url('icons/no.png') no-repeat center center;
+}
+.icon-cancel
+{
+    background: url('icons/cancel.png') no-repeat center center;
+}
+.icon-reload
+{
+    background: url('icons/reload.png') no-repeat center center;
+}
+.icon-search
+{
+    background: url('icons/search.png') no-repeat center center;
+}
+.icon-print
+{
+    background: url('icons/print.png') no-repeat center center;
+}
+.icon-help
+{
+    background: url('icons/help.png') no-repeat center center;
+}
+.icon-undo
+{
+    background: url('icons/undo.png') no-repeat center center;
+}
+.icon-redo
+{
+    background: url('icons/redo.png') no-repeat center center;
+}
+.icon-back
+{
+    background: url('icons/back.png') no-repeat center center;
+}
+.icon-sum
+{
+    background: url('icons/sum.png') no-repeat center center;
+}
+.icon-tip
+{
+    background: url('icons/tip.png') no-repeat center center;
+}
+
+.icon-mini-add
+{
+    background: url('icons/mini_add.png') no-repeat center center;
+}
+.icon-mini-edit
+{
+    background: url('icons/mini_edit.png') no-repeat center center;
+}
+.icon-mini-refresh
+{
+    background: url('icons/mini_refresh.png') no-repeat center center;
+}
+/*=========================================一级菜单图标=========================================*/
+/* 调度管理 */
+.icon-ddgl
+{
+    background: url('icons/menu/ddgl.png') no-repeat center center;
+}
+/* 安全监测 */
+ .icon-aqjc
+{
+    background: url('icons/menu/aqjc.png') no-repeat center center;
+}
+/* 人员定位 */
+.icon-rydw
+{
+    background: url('icons/menu/rydw.png') no-repeat center center;
+}
+/* 图文管理  */ 
+.icon-twda
+{
+    background: url('icons/menu/twda.png') no-repeat center center;
+}
+/* 视频信息 */  
+.icon-spxx
+{
+    background: url('icons/menu/spxx.png') no-repeat center center;
+}
+/* 应急救援 */  
+.icon-yjjy
+{
+    background: url('icons/menu/yjjy.png') no-repeat center center;
+}
+/* 生产运行 */  
+.icon-scyx
+{
+    background: url('icons/menu/scyx.png') no-repeat center center;
+}
+/* 系统监控 */  
+.icon-xtjk
+{
+    background: url('icons/menu/xtjk.png') no-repeat center center;
+}
+/* 系统管理  */  
+.icon-xtgl
+{
+    background: url('icons/menu/xtgl.png') no-repeat center center;
+}
+/* 短彩信  */   
+.icon-cdx
+{
+    background: url('icons/menu/cdx.png') no-repeat center center;
+}
+/* 信息发布 */   
+.icon-xxfb
+{
+    background: url('icons/menu/xxfb.png') no-repeat center center;
+}
+/* 运销管理  */    
+.icon-mtyx
+{
+      background: url('icons/menu/mtyx.png') no-repeat center center;
+}
+/* 应急物资 */  
+.icon-yjwz
+{
+    background: url('icons/menu/yjwz.png') no-repeat center center;
+}
+/* 综合管理门户 */  
+.icon-zhglmh
+{
+    background: url('icons/menu/zhglmh.png') no-repeat center center;
+}
+/* 运销管理 */  
+.icon-yxgl
+{
+    background: url('icons/menu/yxgl.png') no-repeat center center;
+}
+/* 生产运行监控 */  
+.icon-scyxjk
+{
+    background: url('icons/menu/scyxjk.png') no-repeat center center;
+}
+/*=========================================右上角设置图标=========================================*/
+/*消息图标 */
+.icon-message
+{
+    background: url('icons/message.png') no-repeat center center;
+}
+/*设置图标（齿轮） */
+.icon-setting
+{
+    background: url('icons/setting.png') no-repeat center center;
+}
+/*退出图标 */
+.icon-exit
+{
+    background: url('icons/exit.png') no-repeat center center;
+}
+/*检索图标 */
+.icon-dingyue
+{
+    background: url('icons/search.png') no-repeat center center;
+}
+/*代理设置（左右箭头） */
+.icon-daili
+{
+    background: url('icons/daili.png') no-repeat center center;
+}
+/* 数据库图标 */  
+.icon-swjc
+{
+    background: url('icons/menu/swjc.png') no-repeat center center;
+}
+
+/* 最大化图标 */    
+.icon-maxfull
+{
+      background: url('icons/maxfull.png') no-repeat center center;
+}
+/* 退出最大化图标 */  
+.icon-exitmaxfull
+{
+    background: url('icons/exitmaxfull.png') no-repeat center center;
+}
+
+
+/*************************Tabs选项卡右键图标********************************/
+/*设置默认页*/
+.icon-tab-morenye
+{
+    background: url('icons/tabs/morenye.png') no-repeat center center;
+}
+/*设置默认首页*/
+.icon-tab-morensouye
+{
+    background: url('icons/tabs/morensouye.png') no-repeat center center;
+}
+
+/********************************右键功能**************************************/
+.icon-tmenu-open
+{
+    background: url('icons/tmenu/open.png') no-repeat center center;
+}
+/*********************************报表图标***********************************/
+.icon-about {
+	background: url('icons/about.gif') no-repeat center center;
+}
+.icon-desgin {
+	background: url('icons/desgin.gif') no-repeat center center;
+}
+.icon-export {
+	background: url('icons/export.gif') no-repeat center center;
+}
+.icon-print-n{
+	background: url('icons/print.gif') no-repeat center center;
+}
+.icon-printpreview {
+	background: url('icons/printpreview.gif') no-repeat center center;
+}
+.icon-printsetup {
+	background: url('icons/printsetup.gif') no-repeat center center;
+}
+.icon-advancedSearch{
+    background:url('icons/other_advancedSearch.png') no-repeat;
+}
+.icon-reportUpload{
+    background:url('icons/reportUpload.png') no-repeat center center;
+}
+.icon-reportDownload{
+    background:url('icons/reportDownload.png') no-repeat center center;
+}
+.icon-config{
+    background:url('icons/config.png') no-repeat center center;
+}
+.icon-alarm{
+    background:url('icons/alarm.png') no-repeat center center;
+}
+/*********************************短信***********************************/
+.icon-send_sms{
+    background:url('icons/sms/send_sms.png') no-repeat center center;
+}
+/*********************************系统监控图标***********************************/
+.icon-database-import {
+	background: url('icons/database/database-import.png') no-repeat center center;
+}
+.icon-database_gear {
+	background: url('icons/database/database_gear.png') no-repeat center center;
+}
+.icon-database_refresh {
+	background: url('icons/database/database_refresh.png') no-repeat center center;
+}
+.icon-database_save {
+	background: url('icons/database/database_save.png') no-repeat center center;
+}
+.icon-database-arrow {
+	background: url('icons/database/database-arrow.png') no-repeat center center;
+}
+.icon-database-exclamation {
+	background: url('icons/database/database-exclamation.png') no-repeat center center;
+}
+.icon-database-minus {
+	background: url('icons/database/database-minus.png') no-repeat center center;
+}
+.icon-database-pencil {
+	background: url('icons/database/database-pencil.png') no-repeat center center;
+}
+.icon-database-plus {
+	background: url('icons/database/database-plus.png') no-repeat center center;
+}

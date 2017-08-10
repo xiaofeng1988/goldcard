@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+ul,li{margin:0;padding:0;list-style-type:none;}
+a:link,a:visited{text-decoration:none;}
+.wrap{padding:0;margin:0;width:100%;font-family:"Microsoft YaHei","宋体",Arial;}
+.t-title{font-size:18px;border:1px solid #e4e4e4;border-bottom-color:#b1b1b1;background:#f1f9ff;height:39px;line-height:39px;padding:0 10px;margin:0;font-weight:400;}
+.normal-tbl{border-left:1px solid #e4e4e4;border-top:1px solid #b1b1b1;width:100%;border-collapse:collapse;border-spacing:0;border-right:0 none;border-bottom:0 none;}
+.normal-tbl th,.normal-tbl td{height:34px;line-height:34px;padding:0 5px;border-right:1px solid #e4e4e4;border-bottom:1px solid #e4e4e4;}
+.normal-tbl th{filter:progid:DXImageTransform.Microsoft.gradient(startcolorstr=#fff7f7f7, endcolorstr=#ffededed, gradienttype=0);background:-webkit-gradient(linear,0 0,0 100%,from(#f7f7f7),to(#ededed));background-image:-moz-linear-gradient(-90deg,#f7f7f7,#ededed);font-weight:700;color:#656565;font-size:14px;}
+.normal-tbl td{font-size:14px;color:#444;}
+.normal-tbl td input.easyui-validatebox{height:auto!important;border:1px solid #ccc;}
+.sum-item{font-weight:700;}
+.sum{font-family:"Microsoft YaHei";font-size:14px;text-align:center;background:#d7f2ff;}
+.even{background:#f6fcff;}
+.even input{background-color:#f6fcff;}
+.tab-wrap{background:#e3e3e3 url(../img/dot.gif) repeat-x 0 bottom;padding:11px 5px 0;overflow:hidden;_height:1%;}
+.tab-wrap li{float:left;background:url(../img/tabbtn.gif) no-repeat;color:#fff;margin:0 3px 0 0;}
+.tab-wrap li a{display:block;height:30px;line-height:30px;color:#fff;padding:0 8px 0 11px;font-size:12px;font-family:"宋体";background:url(../img/tabbtn.gif) no-repeat right -44px;_float:left;}
+.close{font-style:normal;margin:0 0 0 5px;padding:0px 3px;font-family:Verdana, Geneva, sans-serif}
+.tab-wrap li.current{color:#1d3a6e;background:url(../img/tabbtn.gif) no-repeat 0 -88px;margin-bottom:-1px;}
+.tab-wrap li.current a{color:#1d3a6e;background:url(../img/tabbtn.gif) no-repeat right -133px;}
+.tab-wrap li.full-btn{float:right;background:none;}
+.tab-wrap li a.full-screen-btn{background:url(../img/full.gif) no-repeat;color:#fff;padding:0 10px 0 34px;height:30px;line-height:30px;font-size:14px;margin:-5px 0 0;}
+.option-wrap{background:#f2f5fa;padding:10px 5px;height:30px;line-height:30px;font-family:"宋体";font-size:12px;border-bottom:1px solid #e4e4e4;}
+.option-wrap span{float:left;margin:0 15px 0 0;}
+.date-wrap{border:1px solid #c6c6c6;padding:3px;background:#fff;}
+.date-i{background:url(../img/date.gif) no-repeat right center;height:15px;line-height:15px;border:0 none;width:152px;margin:0;outline:none;}
+.btns{position:relative;}
+.btns input,.jump-btn{border:1px solid #c6c6c6;filter:progid:DXImageTransform.Microsoft.gradient(startcolorstr=#fff9f9f9, endcolorstr=#ffededed, gradienttype=0);background:-webkit-gradient(linear,0 0,0 100%,from(#f9f9f9),to(#ededed));background-image:-moz-linear-gradient(-90deg,#f9f9f9,#ededed);height:25px;line-height:25px;padding:0 10px 0 25px;cursor:pointer;margin:0;border-radius:3px;}
+.submit-icon,.history-icon{background:url(../img/save.gif) no-repeat;position:absolute;top:7px;left:9px;padding:0 4px;}
+.submit-icon{background:url(../img/submit.gif) no-repeat;}
+.history-icon{background:url(../img/history.gif) no-repeat;padding:1px 5px;}*/
+.clear{clear:both;}
+.page{margin:10px 5px;color:#333;font-family:"宋体";font-size:12px;line-height:23px;padding:0;}
+.page a{padding:0 9px;border:1px solid #c5c5c5;height:23px;line-height:23px;background:#fff;display:inline-block;color:#333;}
+.choose{width:35px;border:1px solid #c5c5c5;height:23px;line-height:23px;padding:0;float:left;}
+.jump-btn{padding:0 7px;margin:0 4px;height:25px;line-height:25px;float:left;}
+.page span,.page a{float:left;margin:0 4px;}
+td.normal{color:#4f860e;}
+td.error{color:#ea0000;}
+td.center{text-align:center;}
+td.bold{font-weight:700;}
+td.orange{color:#ffb400;}
+.deep-blue{background:#badfff;}
+.light-blue{background:#dff0ff;}
+input{background-color: #FFFFFF;}
+.complete-fill-tab,.complete-fill-tab .tabs-header,.complete-fill-tab .tabs-panels,.complete-fill-tab .tabs-panels .panel,.complete-fill-tab .tabs-panels .panel .panel-body{width:100%!important;}
+/*.complete-fill-tab .tabs-wrap{width:96%!important;}*/

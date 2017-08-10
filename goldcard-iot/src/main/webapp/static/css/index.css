@@ -1,0 +1,31 @@
+	table {
+		border-collapse: collapse;
+	}
+	
+	.td_border {
+		border-left: 1px solid #C8E1FA;
+		border-top: 1px solid #C8E1FA;
+		border-right: 1px solid #C8E1FA;
+		border-bottom: 1px solid #C8E1FA;
+		font-family: "Courier New", Courier, mono;
+		font-size: 11px;
+		height: 35px;
+		padding: 0 12px 0 12px;
+		border-collapse: collapse;
+	}
+	
+	.tdblue {
+		font-weight: bold;
+		color: #C8E1FA;
+	}
+	.input-radio
+	{
+		background-color: white;
+	    border: 1px;
+	    height: 15px;
+	    width: 20px;
+	}
+	.tableXX{border:0px solid #cccccc; border-radius :3px; background-color:#FFFFFF;} 
+	.tableXX td{border-bottom:1px dashed #cccccc;} 
+	.tableXX .last td{border-bottom:0;} 
+	.tableXX .more td{border-bottom:0;} 

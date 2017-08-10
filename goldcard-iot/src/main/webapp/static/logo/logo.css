@@ -1,0 +1,128 @@
+.logo-title
+{
+    background: url(cycle.png) repeat-x;
+    height: 65px;
+}
+.logo
+{
+    float: left;
+    height: 65px;
+}
+.logo-tab
+{
+    font: 12px/41px "Î¢ÈíÑÅºÚ";
+    height: 30px;
+    z-index: 99;
+    color: #FFFFFF;
+    text-align: right;
+    float: right;
+}
+
+.textStyle
+{
+    color: White;
+}
+
+.tooldiv
+{
+    margin-right: 5px;
+}
+.tooldiv a
+{
+    color: White;
+}
+
+.tooldiv a:hover
+{
+    color: Black;
+}
+
+.divbackground
+{
+    background: rgb(224,236,255);
+    background: url(mainMenuBack.png) repeat-x;
+    overflow:hidden;
+}
+
+.deptStyle
+{
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(255,255,255);
+    vertical-align: bottom;
+    line-height: 20px;
+}
+
+.userinfostyle
+{
+    color: White;
+    margin: 8px 5px 5px;;
+}
+
+.currentDeptStyle
+{
+    font-family: "Microsoft YaHei";
+    color: #fff;
+    top: 30px;
+    left: 380px;
+    z-index: 100;
+    position: absolute;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing:1px;
+}
+
+.firstmenuStyle
+{
+    font-weight: bold;
+}
+
+.linkStyle
+{
+    color: #FFFFFF;
+    vertical-align: bottom;
+    text-decoration: NONE;
+}
+
+.tablebaseStyle
+{
+    font-family: "Microsoft Yahei";
+    background: rgb(156,170,193);
+    width: 100%;
+    height: 100%;
+    border-spacing:0;
+    border-collapse:collapse;
+}
+
+.tablebaseStyle th
+{
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 35px;
+    background-color: White;
+    border-bottom:2px solid #eee;
+}
+
+.tablebaseStyle a
+{
+    color: #458eba;
+    font-size: 14px;
+    text-decoration: NONE;
+}
+
+
+.tablebaseStyle a:hover
+{
+  text-decoration:underline;
+}
+
+.tablebaseStyle td
+{
+    background-color: White;
+    line-height: 30px;
+    line-height: 35px;
+    font-size: 14px;
+    padding-left: 20px;
+    border-bottom:1px dashed #ccc;
+}
+

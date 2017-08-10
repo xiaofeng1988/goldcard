@@ -1,0 +1,367 @@
+@charset "utf-8";
+/* CSS Document */
+
+.icon-null
+{
+    width: 0px;
+}
+.icon-house
+{
+    background: url('icons/house.png') no-repeat center center;
+}
+.icon-blank
+{
+    background: url('icons/blank.gif') no-repeat center center;
+}
+.icon-down
+{
+    background: url('icons/arrow_down.png') no-repeat center center;
+}
+.icon-up
+{
+    background: url('icons/arrow_up.png') no-repeat center center;
+}
+.icon-add
+{
+    background: url('icons/edit_add.png') no-repeat center center;
+}
+.icon-edit
+{
+    background: url('icons/pencil.png') no-repeat center center;
+}
+.icon-remove
+{
+    background: url('icons/edit_remove.png') no-repeat center center;
+}
+.icon-save
+{
+    background: url('icons/filesave.png') no-repeat center center;
+}
+.icon-selectAll
+{
+    background: url('icons/selectAll.png') no-repeat center center;
+}
+.icon-uncheckAll
+{
+    background: url('icons/uncheckAll.png') no-repeat center center;
+}
+.icon-cut
+{
+    background: url('icons/cut.png') no-repeat center center;
+}
+.icon-ok
+{
+    background: url('icons/ok.png') no-repeat center center;
+}
+.icon-expandAll
+{
+    background: url('icons/expandAll.png') no-repeat center center;
+}
+.icon-collapseAll
+{
+    background: url('icons/collapseAll.png') no-repeat center center;
+}
+.icon-no
+{
+    background: url('icons/no.png') no-repeat center center;
+}
+.icon-cancel
+{
+    background: url('icons/cancel.png') no-repeat center center;
+}
+.icon-reload
+{
+    background: url('icons/reload.png') no-repeat center center;
+}
+.icon-search
+{
+    background: url('icons/search.png') no-repeat center center;
+}
+.icon-print
+{
+    background: url('icons/print.png') no-repeat center center;
+}
+.icon-help
+{
+    background: url('icons/help.png') no-repeat center center;
+}
+.icon-undo
+{
+    background: url('icons/undo.png') no-repeat center center;
+}
+.icon-redo
+{
+    background: url('icons/redo.png') no-repeat center center;
+}
+.icon-back
+{
+    background: url('icons/back.png') no-repeat center center;
+}
+.icon-sum
+{
+    background: url('icons/sum.png') no-repeat center center;
+}
+.icon-tip
+{
+    background: url('icons/tip.png') no-repeat center center;
+}
+
+.icon-mini-add
+{
+    background: url('icons/mini_add.png') no-repeat center center;
+}
+.icon-mini-edit
+{
+    background: url('icons/mini_edit.png') no-repeat center center;
+}
+.icon-mini-refresh
+{
+    background: url('icons/mini_refresh.png') no-repeat center center;
+}
+/*=========================================涓�骇鑿滃崟鍥炬爣=========================================*/
+/* 缁煎悎灞曠ず */
+.icon-zhzs
+{
+    background: url('icons/menu/zhzs.png') no-repeat center center;
+}
+/* 璋冨害绠＄悊 */
+.icon-ddgl
+{
+    background: url('icons/menu/ddgl.png') no-repeat center center;
+}
+/* 缁熻鍒嗘瀽 */
+.icon-tjfx
+{
+    background: url('icons/menu/tjfx.png') no-repeat center center;
+}
+/* 璐ㄩ噺绠＄悊 */
+.icon-zlgl
+{
+    background: url('icons/menu/zlgl.png') no-repeat center center;
+}
+/* 鍦ㄧ嚎鐩戞祴 */
+.icon-zxjc
+{
+    background: url('icons/menu/zxjc.png') no-repeat center center;
+}
+/* 缁煎悎绠＄悊 */
+.icon-zhgl
+{
+    background: url('icons/menu/zhgl.png') no-repeat center center;
+}
+/* 绯荤粺缁存姢 */
+.icon-xtwh
+{
+    background: url('icons/menu/xtwh.png') no-repeat center center;
+}
+
+
+/* 瀹夊叏鐩戞祴 */
+ .icon-aqjc
+{
+    background: url('icons/menu/aqjc.png') no-repeat center center;
+}
+/* 浜哄憳瀹氫綅 */
+.icon-rydw
+{
+    background: url('icons/menu/rydw.png') no-repeat center center;
+}
+/* 鍥炬枃绠＄悊  */ 
+.icon-twda
+{
+    background: url('icons/menu/twda.png') no-repeat center center;
+}
+/* 瑙嗛淇℃伅 */  
+.icon-spxx
+{
+    background: url('icons/menu/spxx.png') no-repeat center center;
+}
+/* 搴旀�鏁戞彺 */  
+.icon-yjjy
+{
+    background: url('icons/menu/yjjy.png') no-repeat center center;
+}
+/* 鐢熶骇杩愯 */  
+.icon-scyx
+{
+    background: url('icons/menu/scyx.png') no-repeat center center;
+}
+/* 绯荤粺鐩戞帶 */  
+.icon-xtjk
+{
+    background: url('icons/menu/xtjk.png') no-repeat center center;
+}
+/* 绯荤粺绠＄悊  */  
+.icon-xtgl
+{
+    background: url('icons/menu/xtgl.png') no-repeat center center;
+}
+/* 鐭僵淇� */   
+.icon-cdx
+{
+    background: url('icons/menu/cdx.png') no-repeat center center;
+}
+/* 淇℃伅鍙戝竷 */   
+.icon-xxfb
+{
+    background: url('icons/menu/xxfb.png') no-repeat center center;
+}
+/* 杩愰攢绠＄悊  */    
+.icon-mtyx
+{
+      background: url('icons/menu/mtyx.png') no-repeat center center;
+}
+/* 搴旀�鐗╄祫 */  
+.icon-yjwz
+{
+    background: url('icons/menu/yjwz.png') no-repeat center center;
+}
+/* 缁煎悎绠＄悊闂ㄦ埛 */  
+.icon-zhglmh
+{
+    background: url('icons/menu/zhglmh.png') no-repeat center center;
+}
+/* 杩愰攢绠＄悊 */  
+.icon-yxgl
+{
+    background: url('icons/menu/yxgl.png') no-repeat center center;
+}
+/* 鐢熶骇杩愯鐩戞帶 */  
+.icon-scyxjk
+{
+    background: url('icons/menu/scyxjk.png') no-repeat center center;
+}
+/*=========================================鍙充笂瑙掕缃浘鏍�========================================*/
+/*娑堟伅鍥炬爣 */
+.icon-message
+{
+    background: url('icons/message.png') no-repeat center center;
+}
+/*璁剧疆鍥炬爣锛堥娇杞級 */
+.icon-setting
+{
+    background: url('icons/setting.png') no-repeat center center;
+}
+/*閫�嚭鍥炬爣 */
+.icon-exit
+{
+    background: url('icons/exit.png') no-repeat center center;
+}
+/*妫�储鍥炬爣 */
+.icon-dingyue
+{
+    background: url('icons/search.png') no-repeat center center;
+}
+/*浠ｇ悊璁剧疆锛堝乏鍙崇澶达級 */
+.icon-daili
+{
+    background: url('icons/daili.png') no-repeat center center;
+}
+/* 鏁版嵁搴撳浘鏍�*/  
+.icon-swjc
+{
+    background: url('icons/menu/swjc.png') no-repeat center center;
+}
+
+/* 鏈�ぇ鍖栧浘鏍�*/    
+.icon-maxfull
+{
+      background: url('icons/maxfull.png') no-repeat center center;
+}
+/* 閫�嚭鏈�ぇ鍖栧浘鏍�*/  
+.icon-exitmaxfull
+{
+    background: url('icons/exitmaxfull.png') no-repeat center center;
+}
+
+
+/*************************Tabs閫夐」鍗″彸閿浘鏍�*******************************/
+/*璁剧疆榛樿椤�/
+.icon-tab-morenye
+{
+    background: url('icons/tabs/morenye.png') no-repeat center center;
+}
+/*璁剧疆榛樿棣栭〉*/
+.icon-tab-morensouye
+{
+    background: url('icons/tabs/morensouye.png') no-repeat center center;
+}
+
+/********************************鍙抽敭鍔熻兘**************************************/
+.icon-tmenu-open
+{
+    background: url('icons/tmenu/open.png') no-repeat center center;
+}
+/*********************************鎶ヨ〃鍥炬爣***********************************/
+.icon-about {
+	background: url('icons/about.gif') no-repeat center center;
+}
+.icon-desgin {
+	background: url('icons/desgin.gif') no-repeat center center;
+}
+.icon-export {
+	background: url('icons/export.gif') no-repeat center center;
+}
+.icon-print-n{
+	background: url('icons/print.gif') no-repeat center center;
+}
+.icon-printpreview {
+	background: url('icons/printpreview.gif') no-repeat center center;
+}
+.icon-printsetup {
+	background: url('icons/printsetup.gif') no-repeat center center;
+}
+.icon-advancedSearch{
+    background:url('icons/other_advancedSearch.png') no-repeat;
+}
+.icon-reportUpload{
+    background:url('icons/reportUpload.png') no-repeat center center;
+}
+.icon-reportDownload{
+    background:url('icons/reportDownload.png') no-repeat center center;
+}
+.icon-config{
+    background:url('icons/config.png') no-repeat center center;
+}
+.icon-alarm{
+    background:url('icons/alarm.png') no-repeat center center;
+}
+.icon-bbtj{
+    background:url('icons/bbtj.png') no-repeat center center;
+}
+/*********************************鐭俊***********************************/
+.icon-send_sms{
+    background:url('icons/sms/send_sms.png') no-repeat center center;
+}
+/*********************************绯荤粺鐩戞帶鍥炬爣***********************************/
+.icon-database-import {
+	background: url('icons/database/database-import.png') no-repeat center center;
+}
+.icon-database_gear {
+	background: url('icons/database/database_gear.png') no-repeat center center;
+}
+.icon-database_refresh {
+	background: url('icons/database/database_refresh.png') no-repeat center center;
+}
+.icon-database_save {
+	background: url('icons/database/database_save.png') no-repeat center center;
+}
+.icon-database-arrow {
+	background: url('icons/database/database-arrow.png') no-repeat center center;
+}
+.icon-database-exclamation {
+	background: url('icons/database/database-exclamation.png') no-repeat center center;
+}
+.icon-database-minus {
+	background: url('icons/database/database-minus.png') no-repeat center center;
+}
+.icon-database-pencil {
+	background: url('icons/database/database-pencil.png') no-repeat center center;
+}
+.icon-database-plus {
+	background: url('icons/database/database-plus.png') no-repeat center center;
+}
+
+.icon-sensor {
+	background: url('icons/sensor.png') no-repeat center center;
+}

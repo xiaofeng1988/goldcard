@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE generatorConfiguration PUBLIC "-//mybatis.org//DTD MyBatis Generator Configuration 1.0//EN" "http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd" >
+<generatorConfiguration >
+  <classPathEntry location="/Volumes/work/root/jdbc_jar/mysql-connector-java-5.1.24.jar" />
+  <context id="context1" >
+    <jdbcConnection driverClass="com.mysql.jdbc.Driver" 
+    				connectionURL="jdbc:mysql://127.0.0.1:3306/demo" 
+    				userId="root" 
+    				password="root" />
+    <javaModelGenerator targetPackage="com.goldcard.goldcardiot.models" targetProject="goldcard-iot" />
+    <sqlMapGenerator targetPackage="com.goldcard.goldcardiot.mappers" targetProject="goldcard-iot" />
+    <javaClientGenerator targetPackage="com.goldcard.goldcardiot.dao" targetProject="goldcard-iot" type="XMLMAPPER" />
+<!--     <table schema="" tableName="sys_user" > 
+         <table schema="" tableName="sys_code_table" />
+         <table schema="" tableName="sys_user" />
+         <table schema="" tableName="sys_user_type" />
+         <table schema="" tableName="sys_dept" />
+         <table schema="" tableName="sys_dept_type" />
+         <table schema="" tableName="sys_right" />
+         <table schema="" tableName="sys_role" />
+         
+         <table schema="" tableName="sys_dept_and_right" />
+         <table schema="" tableName="sys_dept_and_type" /> 
+         <table schema="" tableName="sys_right_and_dept" />
+         <table schema="" tableName="sys_role_and_right" />
+         <table schema="" tableName="sys_role_and_user" />
+         <table schema="" tableName="sys_user_and_right" />
+         <table schema="" tableName="sys_user_online" />  -->
+         
+          <table schema="" tableName="api_error" />
+          <table schema="" tableName="api_req_param" />
+          <table schema="" tableName="api_req_url" />
+          <table schema="" tableName="api_sys" />
+          <table schema="" tableName="api_sys_module" />
+          <table schema="" tableName="api_user_team" />
+          <table schema="" tableName="api_user" />
+          
+  </context>
+</generatorConfiguration>

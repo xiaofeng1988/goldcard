@@ -1,0 +1,65 @@
+@charset "utf-8";
+/* CSS Document */
+html,body{ width:100%; height:100%;}
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,table,th,td,img,a{margin:0;padding:0; overflow-y:hidden}
+body{ font:12px/1.75 Tahoma,Arial;color:#333;_background-attachment:fixed;margin:0;padding:0}
+img{ border:0}
+strong{font-weight:800}
+.clear{ clear:both;}
+
+.fullBg {position: fixed;top: 0;left: 0;overflow: hidden;}
+#maincontent {position: absolute;top:0px;left: 0;z-index: 50;width: 100%}
+#box {width: 600px;padding: 0 10px;}
+h1 {margin-top: 12px;font-size: 40px;text-align: center;line-height: 44px;font-weight: normal;font-family: Georgia,serif;color: #222;}
+h2 {margin-top: 0;font-size: 24px;line-height: 28px;font-weight: normal;font-family: Georgia,serif;color: #C52D08;}
+a {text-decoration: none;outline: none;color: #C52D08;}
+a:hover {text-decoration: underline;}
+/*----------中煤引导首页----------*/
+.requ{min-width:100%; padding:0; position: absolute;  top:30px; z-index:500; overflow:hidden; margin:0 auto; text-align:center; }
+.wrap1002{position:relative; width:76%; height:800px; margin:0 auto;}
+.linkindex{width:90%; top:0; left:0; height:17%; }
+.link{ position:absolute; text-indent:-9999px; background:url(about:blank); }
+.link1{ width:24%; height:520px; left:0%; top:17%; solid #090;}
+.link2{ width:18%; height:520px; left:24%; top:17%; solid #090;}
+.link3{ width:17%; height:520px; left:42%; top:17%; solid #090;;}
+.link4{ width:16%; height:520px; left:59%; top:17%; solid #090;}
+.link6{ width:24%; height:520px; right:0%; top:17%; solid #090;}
+.link5{ width:100%; height:13%; left:0%; top:0%;}
+/*----------安全生产----------*/
+.prorequ{min-width:100%; padding:0; position: absolute;  top:0; z-index:500; overflow:hidden; margin:0 auto; text-align:center;}
+.productionwrap1002{position:relative; width:76%; height:800px; margin:0 auto;}
+.productionlink1{ width:25%; height:40%; left:0%; top:0%;  dashed #FF0;}
+.productionlink2{ width:25%; height:60%; left:0%; bottom:0%;  dashed #FF0;}
+.productionlink3{ width:25%; height:40%; left:38%; top:0%;  dashed #FF0;}
+.productionlink5{ width:28%; height:40%; right:0%; top:0%;  dashed #FF0;}
+.productionlink6{ width:28%; height:60%; right:0%; bottom:0%;  dashed #FF0;}
+.productionlink7{ width:10%; height:10%; left:0%; top:0%;  solid #FF0;}
+.productionlink8{ width:25%; height:60%; left:38%; bottom:0%;  solid #FF0;}
+/*----------数据中心----------*/
+.emergencywrap1002{position:relative; width:76%; height:850px; margin:0 auto;}
+.schedulinglink1{ width:30%; height:40%; left:0%; top:0%;  solid #00F;}
+.schedulinglink2{ width:30%; height:60%; left:0%; top:40%;  solid #00F;}
+.schedulinglink3{ width:30%; height:70%; left:35%; top:10%;  solid #00F;}
+.schedulinglink5{ width:35%; height:40%; right:0%; top:0%;  solid #00F;}
+.schedulinglink7{ width:35%; height:60%; right:0%; top:40%;  solid #00F;}
+.emergencylink7{ width:10%; height:10%; left:0%; top:0%;  solid #00F;}
+/*----------综合展示----------*/
+.systemlink2{ width:40%; height:45%; left:0%; top:0%;}
+.systemlink3{ width:40%; height:58%; left:0%; top:48%;}
+.systemlink5{ width:40%; height:45%; right:0%; top:0%;}
+.systemlink6{ width:40%; height:58%; right:0%; top:48%;}
+/*----------系统运维----------*/
+.safelink2{ width:34%; height:68%; left:0%; bottom:0%;  solid #609;}
+.safelink5{ width:28%; height:70%; left:40%; bottom:0%;  solid #609;}
+.safelink6{ width:30%; height:80%; right:0%; bottom:0%;  solid #609;}
+
+.emergencylink1{ width:30%; height:40%; left:0%; top:0%;  solid #0FF;}
+.emergencylink2{ width:30%; height:60%; left:0%; bottom:0%;  solid #0FF;}
+.emergencylink3{ width:20%; height:80%; left:38%; top:0%;  solid #0FF;}
+.emergencylink5{ width:34%; height:40%; right:0%; top:0%;  solid #0FF;}
+.emergencylink6{ width:34%; height:60%; right:0%; bottom:0%;  solid #0FF;}
+.emergencylink7{ width:10%; height:10%; left:0%; top:0%;  solid #0FF;}
+
+.complexlink2{ width:34%; height:70%; left:0%; top:0%;  solid #F0F;}
+.complexlink5{ width:35%; height:40%; right:0%; top:0%;  solid #F0F;}
+.complexlink6{ width:35%; height:60%; right:0%; bottom:0%;  solid #F0F;}

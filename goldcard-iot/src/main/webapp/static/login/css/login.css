@@ -1,0 +1,59 @@
+html,body,div,p,dl,dt,dd,ul,li,h1,h2,h3,input{margin:0;padding:0;}
+html,body{font:14px/25px "Microsoft YaHei","ËÎÌו",Arial, Helvetica, sans-serif;}
+ul,li{list-style-type:none;}
+html{overflow:hidden;}
+body{position:absolute;top:0;left:0;right:0;bottom:0;height:100%;width:100%;}
+.tab-btns{position:absolute;top:15px;right:8px;height:25px;z-index:999;}
+.tab-btns li{background:url(../image/tabs.png) no-repeat -29px 0;cursor:pointer;height:25px;width:25px;text-align:center;line-height:25px;float:left;margin:0 8px 0 0;color:#676767;}
+.tab-btns li.curt,.tab-btns li:hover{background-position:0 0;color:#fff;}
+.top-bg{background:url(../image/bg.jpg) 0 0 repeat-x;width:100%;height:100%;}
+.btm-bg{background:url(../image/btm.png) 0 bottom repeat-x;width:100%;height:100%;}
+.wrap{height:100%;width:100%;margin:0 auto;position:relative;}
+.main-container{width:100%;position:absolute;bottom:60px;z-index:99;}
+.main-wrap{width:423px;margin:0 auto;}
+.title{background:url(../image/name.png) no-repeat center;width:100%;height:68px;margin:26px 0px 0px 140px;float:left;}
+.login-box{background:url(../image/login-bg.png) no-repeat;margin:0;width:423px;height:275px;overflow:hidden;padding:45px 0 0;}
+.login-box dl{float:left;width:380px;margin:0 0 0 52px;_margin:0 0 0 20px;}
+.login-box dt,.login-box dd{float:left;line-height:31px;float:left;margin:5px 0;}
+.login-box dt{color:#0071bc;font-size:14px;width:60px;font-weight:700;clear:left;}
+.login-box dd.i-bg{background:url(../image/input.gif) no-repeat;width:255px;padding:3px;height:25px;}
+.i ,.verify input.i{ height:25px;line-height:25px;color:#333;border:0 none;outline:none;width:245px;float:left;}
+.verify input.i{width:70px;padding:0;}
+.login-box dd.over{margin:-8px 0 0 60px;color:#666;width:320px;_width:234px;height:22px;*height:25px;line-height:22px;font-size:12px;}
+.over input{float:left;margin:9px 2px 0 0;*margin:6px 0px 0 0\9;}
+.log-in{color:#666;font-size:12px;font-family:"ËÎÌו";clear:left;border-top:1px solid #eaeaea;padding:10px 0 0 98px;*padding:10px 0 0 95px;width:295px;*width:298px;margin:0 0 0 15px}
+.log-in label{float:left;margin:0 15px 0 0;height:33px;line-height:33px;}
+.log-in label input{float:left;margin:9px 2px 0 0;*margin:7px 2px 0 0;}
+.login-btn{background:url(../image/btn.png) no-repeat;height:33px;width:92px;border:0 none;cursor:pointer;text-indent:-9999px;}
+.list-pic{overflow:hidden;_height:1%;width:870px;margin:0 auto;}
+.list-pic li{float:left;margin:0 15px 0 0;}
+.pic1,.pic2,.pic3,.pic4,.pic5,.pic6{background:url(../image/p1.png) no-repeat;width:130px;height:129px;}
+.pic2{background:url(../image/p2.png) no-repeat;}
+.pic3{background:url(../image/p3.png) no-repeat;}
+.pic4{background:url(../image/p4.png) no-repeat;}
+.pic5{background:url(../image/p5.png) no-repeat;}
+.pic6{background:url(../image/p6.png) no-repeat;}
+.tech-support{color:#666;font-size:14px;text-align:center;padding:15px 0 5px;position:absolute;bottom:5px;left:0;right:0;}
+.i-bg-s{background:url(../image/code-k.gif) no-repeat;height:31px;width:87px;padding:2px;float:left;}
+.login-box dd.verify{margin:8px 0;*margin:8px 0;overflow:hidden;width:300px;}
+.verify input{height:24px;line-height:24px;padding:2px;width:70px;margin:0 5px 0 0;background:#fff;float:left;border:0 none;}
+.verify input.code{background:url(../image/codebg.png);color:#0a4777;font-style:italic;font-family:Arial, Helvetica, sans-serif;text-align:center;letter-spacing:2px;font-size:17px;margin:0 10px 0 0;font-weight:700;height:29px;width:86px;padding:0;line-height:29px;float:left;border:1px solid #aaa;}
+.verify a{color:#007EC8;text-decoration:none;float:left;}
+.change{background:url(../image/fresh.png) no-repeat 0 center;padding:0 0 0 14px;}
+.error { color:#f00;padding:2px 0;}
+.clear{clear:both;}
+
+
+@media (min-width:1400px){
+	.top-bg{background:#FBFCFE url(../image/h-bg.jpg) repeat-x;}
+}
+@media (min-width:1600px){
+	.top-bg{background:#FBFCFE url(../image/w-bg.jpg) repeat-x!important;}
+}
+@media (min-width:1900px){
+	.top-bg{background:#FBFCFE url(../image/wh-bg.jpg) repeat-x!important;}
+	.btm-bg{background:url(../image/btm-B.png) 0 bottom repeat-x;width:100%;height:100%;}
+	.main-container{bottom:20%;}
+}
+
+.validatebox-invalid{background-image:none;}

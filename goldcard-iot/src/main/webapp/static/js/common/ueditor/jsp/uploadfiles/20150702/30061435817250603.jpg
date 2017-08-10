@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>您访问的页面不存在 - 深圳市卓杰安全技术有限公司www.szzjaq.com</title>
+<style>
+	body,ul,li{margin:0;padding:0;}
+	body{font:13px/22px 'Helvetica Neue',Helvetica,Arial,Sans-serif;}
+	img{border:0;}
+	ul,li{list-style:none;}
+	a,a:visited{color:#36c;text-decoration:none;}
+	a:hover{color:#36c;text-decoration:underline;}
+	.menu ul{color:#333;}
+	.menu ul .line{color:#ccc;}
+	.menu ul li{display:inline;margin-right:5px;}
+	.menu ul li a{display:inline-block;}
+	.main{width:720px;margin:100px auto 20px;font-size:14px;}
+	.join a{color:#999;}
+</style>
+</head>
+<body>
+	<div class="main">
+		<div class="menu">
+			<ul>
+				<li><strong>您可以返回：</strong></li>
+				<li><a href="http://szzjaq.com/">百佬汇娱乐</a></li>
+				<li class="line">|</li>
+				<li>和龙少一起为公益献出一份力量</li>
+			</ul>
+		</div>
+		<div class="gy">
+			<script type="text/javascript" src="http://www.qq.com/404/search_children.js" charset="utf-8"></script>
+			<style type="text/css">
+				.info{display:none;}
+				.mod_lost_child, .mod_lost_child_little{margin:20px auto;}
+			</style>
+		</div>
+	</div>
+</body>
+</html>

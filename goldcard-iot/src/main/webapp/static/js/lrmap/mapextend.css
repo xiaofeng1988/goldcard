@@ -1,0 +1,108 @@
+html, body, #map {
+   height:100%;
+   width:100%;
+   padding:0px;
+   margin:0px;
+   
+}
+.lastData{
+	border-style: hidden;
+	height: 10px;
+	width: 50px;
+	text-align: left;
+	border-color: green;
+	text-align: center
+}
+
+.lastData2{
+	border-style: hidden;
+	height: 15px;
+	width: 50px;
+	text-align: left;
+	border-color: green;
+}
+
+.my-label {
+     background: rgb(235, 235, 235);
+     background: rgba(235, 235, 235, 0.1);
+     color: black;
+     border:none;
+     display: block;
+     font: 18px/28px "Helvetica Neue", Arial, Helvetica, sans-serif;
+     font-weight:bold;
+ }
+ .labelFont{
+ 	
+ 	font-family: "Microsoft YaHei"
+ }
+ 
+ ul,li{margin:0;padding:0;list-style-type:none;text-align:left;}
+ em,i{font-style:normal;}
+ 
+ /*.mapdept{position: relative;z-index: 9999;width: 165px;float: right;margin: 5px 5px 0 0;}*/
+.mapdept{max-height:400px;overflow:hidden;position: relative;z-index: 9999;margin: 5px 5px 0 0;width: 168px;float: right;margin-top: 5px;background:#f6f9ff;border-radius:8px;border-color:#ccc;box-shadow:0 2px 3px rgba(0,0,0,0.5);}
+.mapdept div{background:transpatent;}
+.mapdept .accordion-body,.mapdept .accordion-header{border:0;padding:8px 5px;background:transpatent;}
+.mapdept .accordion-header .panel-title{font-size:14px;text-align:center;}
+.mapdept .accordion-header-selected{background:#bed7ff;}
+.mapdept .accordion-body{background:url(img/shadowbg.png) no-repeat center top;}
+.mapdept .panel-tool .accordion-collapse{background:url(img/accordion_arrows.png) no-repeat;}
+.mapdept .panel-tool .accordion-expand{background:url(img/accordion_arrows.png) no-repeat -16px 0;}
+.mapdept div{background:transparent;color:#333;}
+#map{background:#fff;}
+.leaflet-popup-content-wrapper{background:#fff;width:390px!important;box-shadow:0 3px 14px rgba(0,0,0,0.4);-webkit-border-radius:12px;border-radius:12px;
+padding:5px 5px 0;border:1px solid #ccc;}
+.leaflet-popup-content{margin:0px 0px 0px 5px;padding:0 0 9px 0;width:380px!important;}
+.leaflet-popup-tip-container{margin:-1px auto 0;}
+.leaflet-popup-tip{background:url(img/tri.png) no-repeat center 0;-webkit-transform:rotate(0);-moz-transform:rotate(0);-ms-transform:rotate(0);
+-o-transform:rotate(0);transform:rotate(0);width:40px;height:20px;margin-top:-1px;border:0 none;box-shadow:none;filter:none;}
+div,table,tr,td{margin:0;padding:0;}
+.gis-pop{width:294px;margin:0 0 0 16px;padding:0 0 12px;}
+.pop-name{font-weight:700;font-size:14px;height:28px;line-height:28px;padding:0 10px;font-family:"Microsoft YaHei";position:absolute;top:-28px;
+left:12px;background:#fff;border-radius:10px 10px 0 0;border:1px solid #ccc;border-width:1px 1px 0 1px;margin:0;}
+.pop-name span{font-weight:400;text-align: center}
+.infor-tbl{margin:0 0 10px 10px;}
+.infor-tbl,.link-tbl{border-spacing:0;border-collapse:collapse;width:100%;}
+.infor-tbl td,.link-tbl td{padding:2px 1px;line-height:22px;font-size:12px;color:#232323;text-align:left;}
+.infor-tbl td{border:1px solid #c8e7fc;background:#eff9fe;width:22%;}
+.infor-tbl td.col-name{font-weight:700;text-align:right;width:28%;}
+.link-tbl td{text-align:center;padding:1px 3px 3px;}
+.link-tbl a:link,.link-tbl a:visited{color:#fff;background:#1183c4;height:22px;line-height:22px;display:inline-block;text-decoration:none;width:100%;}
+.link-tbl a:hover{background:#0676b6;text-decoration:none;}
+.yield-wrap{background:#f3f3f3;border-radius:8px;width:98%;margin:0 auto;}
+.main-yield{color:#222;width:100%;overflow:hidden;}
+.main-yield i{color:#000;font-size:18px;}
+.main-yield span{float:left;padding:0 5px;margin:0 10px 0 0;}
+.month-yield,.safe-infor{overflow:hidden;}
+.month-yield ul li,.safe-infor ul li{float:left;width:116px;color:#000000;line-height:18px;padding:5px 0 5px 5px;font-size:14px;font-family:"Microsoft YaHei"}
+
+.month-yield-cp{overflow:hidden;border-bottom:1px solid #fff;padding:2px 5px;}
+.month-yield-cp ul li{float:left;width:162px;color:#000000;line-height:22px;padding:5px 0 5px 5px;font-size:14px;font-family:"Microsoft YaHei"}
+.m-pop-title{font-size:20px;height:30px;line-height:30px;color:#000;}
+
+.safe-infor ul li{border-top:1px solid #dedede;border-right:1px solid #dedede;padding:5px 0 8px 5px;}
+.mine-link{padding:5px 8px 0;width:96%;margin:0 auto;overflow:hidden;}
+.mine-link li{float:left;width:25%;padding:5px 0;}
+.mine-link li a:link,.mine-link li a:visited{text-decoration:none;padding:2px 8px;float:left;border-radius:3px;background:#0B64D3;color:#fff;}
+.mine-link li a.gray{color:#888;}
+.mine-link li i{display:none;width:18px;height:18px;}
+.map-icon-txt{background:url(img/map-icon.gif) no-repeat 0 2px;}
+.map-icon-img{background:url(img/map-icon.gif) no-repeat 0 -18px;}
+.map-icon-report{background:url(img/map-icon.gif) no-repeat 0 -39px;}
+.map-icon-cube{background:url(img/map-icon.gif) no-repeat -1px -60px;}
+.map-icon-moniter{background:url(img/map-icon.gif) no-repeat 0 -82px;}
+.map-icon-location{background:url(img/map-icon.gif) no-repeat 0 -108px;}
+.map-icon-video{background:url(img/map-icon.gif) no-repeat 0 -134px;}
+.map-icon-product{background:url(img/map-icon.gif) no-repeat 0 -160px;}
+.leaflet-container a.leaflet-popup-close-button{background:url(img/close.png) no-repeat;padding:7px 8px 0 0;color:transparent;top:-15px;right:-15px;width:17px;height:17px;}
+.leaflet-container a.leaflet-popup-close-button:hover{color:transparent;}
+.map-type{position:absolute;top:230px;left:22px;width:33px;}
+.map-type .leaflet-control-zoom{background:#fff;height:26px;line-height:26px;text-align:center;border-radius:0;box-shadow:none;clear:none;padding:3px;border:1px solid #666;margin:0 0 5px;}
+.map-type .leaflet-control-zoom a{display:block;width:100%;height:100%;font-size:14px;font-family:"Microsoft YaHei";line-height:25px;color:#666;}
+.map-type .leaflet-control-zoom a img{border:0 none;}
+
+
+
+
+
+
